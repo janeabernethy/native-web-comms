@@ -13,6 +13,7 @@
 		3FDB1C7E252EC7B500241E3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FDB1C7C252EC7B500241E3C /* Main.storyboard */; };
 		3FDB1C80252EC7B600241E3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FDB1C7F252EC7B600241E3C /* Assets.xcassets */; };
 		3FDB1C83252EC7B600241E3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FDB1C81252EC7B600241E3C /* LaunchScreen.storyboard */; };
+		3FDB1C8B252EC8EB00241E3C /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 3FDB1C8A252EC8EB00241E3C /* index.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3FDB1C7F252EC7B600241E3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FDB1C82252EC7B600241E3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FDB1C84252EC7B600241E3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FDB1C8A252EC8EB00241E3C /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				3FDB1C78252EC7B500241E3C /* SceneDelegate.swift */,
 				3FDB1C7A252EC7B500241E3C /* ViewController.swift */,
 				3FDB1C7C252EC7B500241E3C /* Main.storyboard */,
+				3FDB1C8A252EC8EB00241E3C /* index.html */,
 				3FDB1C7F252EC7B600241E3C /* Assets.xcassets */,
 				3FDB1C81252EC7B600241E3C /* LaunchScreen.storyboard */,
 				3FDB1C84252EC7B600241E3C /* Info.plist */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FDB1C83252EC7B600241E3C /* LaunchScreen.storyboard in Resources */,
+				3FDB1C8B252EC8EB00241E3C /* index.html in Resources */,
 				3FDB1C80252EC7B600241E3C /* Assets.xcassets in Resources */,
 				3FDB1C7E252EC7B500241E3C /* Main.storyboard in Resources */,
 			);
